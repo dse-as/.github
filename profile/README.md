@@ -1,5 +1,13 @@
 # Digital Scholarly Edition *Annemarie Schwarzenbach*
 
+## Core resources
+
+* IIIF presentation manifests: https://iiif.annemarie-schwarzenbach.ch/presentation/
+
+## Work in progress
+
+* TBD
+
 ---
 
 Artwork (avatar) by [nanomilk](https://www.deviantart.com/nanomilk/art/annemarie-schwarzenbach-179776775)
