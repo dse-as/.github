@@ -3,7 +3,7 @@
 ## Core resources
 
 * project web site: https://annemarie-schwarzenbach.ch
-* IIIF presentation manifests: https://iiif.annemarie-schwarzenbach.ch/presentation/
+* IIIF presentation manifests: https://iiif.annemarie-schwarzenbach.ch/presentation/ ([edit](https://github.com/dse-as/i3f))
 
 ## Work in progress
 
