@@ -7,7 +7,7 @@
 
 ## Work in progress
 
-* TBD
+* Transkribus ⇾ TEI workflow: [`workflow_IIIF-ATR-TEI`](https://github.com/dse-as/workflow_IIIF-ATR-TEI)
 
 ---
 
