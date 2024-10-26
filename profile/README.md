@@ -2,6 +2,7 @@
 
 ## Core resources
 
+* project web site: https://annemarie-schwarzenbach.ch
 * IIIF presentation manifests: https://iiif.annemarie-schwarzenbach.ch/presentation/
 
 ## Work in progress
