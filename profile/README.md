@@ -5,6 +5,11 @@
 * project web site: https://annemarie-schwarzenbach.ch
 * IIIF presentation manifests: https://iiif.annemarie-schwarzenbach.ch/presentation/ ([edit](https://github.com/dse-as/i3f))
 
+## Workflow
+
+* [Create IIIF Manifests](https://github.com/dse-as/i3f?tab=readme-ov-file#contributing-manifests)
+* [Upload IIIF Images to Transkribus for ATR](https://github.com/dse-as/workflow_IIIF-ATR-TEI/issues/new/choose)
+
 ## Work in progress
 
 * Transkribus ⇾ TEI workflow: [`workflow_IIIF-ATR-TEI`](https://github.com/dse-as/workflow_IIIF-ATR-TEI)
