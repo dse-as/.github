@@ -12,6 +12,7 @@
 
 ## Work in progress
 
+* oXygen framework: [`oxygen-framework`](https://github.com/dse-as/oxygen-framework)
 * Transkribus ⇾ TEI workflow: [`workflow_IIIF-ATR-TEI`](https://github.com/dse-as/workflow_IIIF-ATR-TEI)
 
 ---
