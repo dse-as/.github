@@ -10,11 +10,11 @@
 * [Create IIIF Manifests](https://github.com/dse-as/i3f?tab=readme-ov-file#contributing-manifests)
   * Also note the WIP [instruction how to find IIIF Image URLs for different providers](https://docs.annemarie-schwarzenbach.ch/arbeitsschritte/IIIF-manifest-anlegen) 
 * [Upload IIIF Images to Transkribus for ATR](https://github.com/dse-as/workflow_IIIF-ATR-TEI/issues/new/choose)
+* Transkribus ⇾ TEI workflow: [`workflow_IIIF-ATR-TEI`](https://github.com/dse-as/workflow_IIIF-ATR-TEI)
 
 ## Work in progress
 
 * oXygen framework: [`oxygen-framework`](https://github.com/dse-as/oxygen-framework)
-* Transkribus ⇾ TEI workflow: [`workflow_IIIF-ATR-TEI`](https://github.com/dse-as/workflow_IIIF-ATR-TEI)
 
 ---
 
