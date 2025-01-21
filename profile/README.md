@@ -2,8 +2,11 @@
 
 ## Core resources
 
-* project web site: https://annemarie-schwarzenbach.ch
+* Project web site: https://annemarie-schwarzenbach.ch
 * IIIF presentation manifests: https://iiif.annemarie-schwarzenbach.ch/presentation/ ([edit](https://github.com/dse-as/i3f))
+* Geovistory project: https://www.geovistory.org/project/15653112 (metadata about persons, places, and organisations)
+* Zotero group: https://www.zotero.org/groups/5746334 (metadata about publications)
+
 
 ## Workflow
 
