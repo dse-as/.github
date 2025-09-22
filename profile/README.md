@@ -9,6 +9,10 @@
 * Github Dashboard: https://github.com/orgs/dse-as/dashboard
 
 
+## Publications
+
+See the [DSE-AS Zenodo collection](https://zenodo.org/communities/dse-as/) for a list of project presentations and publications.
+
 ## Workflow
 
 * [Create IIIF Manifests](https://github.com/dse-as/i3f?tab=readme-ov-file#contributing-manifests)
